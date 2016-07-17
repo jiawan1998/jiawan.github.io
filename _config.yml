@@ -1,2 +1,3 @@
 name: Jia Wan, OPTIMAL NWPU
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
